@@ -1,7 +1,7 @@
 ![I am a Junior Web Developer](https://pbs.twimg.com/profile_banners/1369808238745620492/1615428003/1500x500)
 
 # Hi there 👋,  my name is Phillip 
-## I am a Junior Web Developer
+## I am a Web Developer
 
 Currently full stack software engineer student
 
