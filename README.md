@@ -29,13 +29,18 @@ Currently full stack software engineer student
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,nextjs,mysql,jest,jquery,npm,webpack," /><br>
 </div>
 
+  
 
 
-- 🔭 I’m currently working on Full Stack Web Development Bootcamp 
-- 🌱 I’m currently learning Javascript and Python 
 
+# 💻 Tech Stack:
+![Affinity Photo](https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TruTechDad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TruTechDad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TruTechDad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://twitter.com/Phillip_codes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/phillip-hamilton-brown-33a37821a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/phillipwritescode//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Phillip_codes)  
+---
+[![](https://visitcount.itsvg.in/api?id=TruTechDad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
