@@ -1,7 +1,7 @@
+
 <div align="center">
 
-<img src="./assets/phb-banner.svg" alt="PHB.dev | Phillip Hamilton Brown — Full Stack Developer" width="100%" />
-
+<img width="1200" height="340" alt="banner-preview" src="https://github.com/user-attachments/assets/b43c0a6f-2a1f-4601-a2b8-ddc9d08aafcf" />
 <br />
 
 **Python & FastAPI · JavaScript & React · API Development · Relational Databases**
